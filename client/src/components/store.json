@@ -1,0 +1,157 @@
+[
+    {"name": "THOM BROWNE - BUSAN SHINSEGAE CENTUM CITY MEN 부산 신세계 센텀시티 남성",
+    "sido" : "부산광역시",
+    "address":"부산광역시 해운대구 센텀남대로 35 신세계백화점 센텀시티점 5층 (우)48058",
+    "location":"https://www.google.com/maps/?q=35.1698577,129.128281",
+    "time":"SUN 11:00 AM - 8:30 PM, MON - THU 11:00 AM - 8:00 PM, FRI - SAT 11:00 AM - 8:30 PM",
+    "products":"남성, 향수, 액세서리, 아이웨어",
+    "img":"/images/store1.jpg"
+    }, 
+
+    {"name": "THOM BROWNE - BUSAN SHINSEGAE CENTUM CITY WOMEN 부산 신세계 센텀시티 여성",
+    "sido" : "부산광역시",
+    "address":"부산광역시 해운대구 센텀남대로 35 신세계백화점 센텀시티점 2층 (우)48058",
+    "location":"https://www.google.com/maps/?q=35.1698577,129.128281",
+    "time":"SUN 11:00 AM - 8:30 PM, MON - THU 11:00 AM - 8:00 PM,  FRI - SAT 11:00 AM - 8:30 PM",
+    "products":"여성, 향수, 액세서리, 아이웨어",
+    "img":"/images/store2.jpg"
+    }, 
+
+    {"name": "THOM BROWNE - BUSAN LOTTE AVENUEL MEN 부산 롯데 에비뉴엘 명품관 본점 남성",
+    "sido" : "부산광역시",
+    "address":"부산광역시 부산진구 가야대로 772 롯데백화점 부산본점 에비뉴엘 M층 (우)47285",
+    "location":"https://www.google.com/maps/?q=35.1571397,129.0560115",
+    "time":"SUN 10:30 AM - 8:30 PM, MON - THU 10:30 AM - 8:00 PM, FRI - SAT 10:30 AM - 8:30 PM",
+    "products":"남성, 향수, 액세서리, 아이웨어",
+    "img":"/images/store3.jpg"
+    }, 
+   
+    {"name": "THOM BROWNE - GYEONGGIDO HYUNDAI PANGYO MEN 경기도 현대 판교 남성",
+    "sido" : "경기도",
+    "address":"경기도 성남시 분당구 판교로 146길 20 현대백화점 판교점 6층 (우)13529",
+    "location":"https://www.google.com/maps/?q=37.3925707,127.111996",
+    "time":"SUN 10:30 AM - 8:30 PM, MON - THU 10:30 AM - 8:00 PM, FRI - SAT 10:30 AM - 8:30 PM",
+    "products":"남성, 향수, 액세서리, 아이웨어",
+    "img":"/images/store2.jpg"
+    }, 
+   
+    {"name": "THOM BROWNE - GYEONGGIDO HYUNDAI PANGYO WOMEN 경기도 현대 판교 여성",
+    "sido" : "경기도",
+    "address":"경기도 성남시 분당구 판교로 146길 20 현대백화점 판교점 2층 (우)13529",
+    "location":"https://www.google.com/maps/?q=37.3925837,127.1119894",
+    "time":"SUN 10:30 AM - 8:30 PM, MON - THU 10:30 AM - 8:00 PM, FRI - SAT 10:30 AM - 8:30 PM",
+    "products":"여성, 향수, 액세서리, 아이웨어",
+    "img":"/images/store11.jpg"
+    }, 
+   
+   
+    {"name": "THOM BROWNE - SEOUL GALLERIA LUXURY HALL MEN 서울 갤러리아 명품관 남성",
+    "sido" : "서울시",
+    "address":"서울시 강남구 압구정로 407 갤러리아백화점 명품관 EAST점 4층 (우)06009",
+    "location":"https://www.google.com/maps/?q=37.5279176428847,127.041656896295",
+    "time":"SUN 10:30 AM - 8:30 PM, MON - THU 10:30 AM - 8:00 PM, FRI - SAT 10:30 AM - 8:30 PM",
+    "products":"남성, 향수, 액세서리, 아이웨어",
+    "img":"/images/store6.jpg"
+    }, 
+   
+    {"name": "THOM BROWNE - SEOUL GALLERIA LUXURY HALL WOMEN 서울 갤러리아 명품관 여성",
+    "sido" : "서울시",
+    "address":"서울시 강남구 압구정로 407 갤러리아백화점 명품관 EAST점 3층 (우)06009",
+    "location":"https://www.google.com/maps/?q=37.5279242,127.0416582",
+    "time":"SUN 10:30 AM - 8:30 PM, MON - THU 10:30 AM - 8:00 PM, FRI - SAT 10:30 AM - 8:30 PM",
+    "products":"여성, 향수, 액세서리, 아이웨어",
+    "img":"/images/store11.jpg"
+    }, 
+   
+    {"name": "THOM BROWNE - SEOUL HYUNDAI COEX MEN 서울 현대 무역센터 남성",
+    "sido" : "서울시",
+    "address":"서울시 강남구 테헤란로 517 현대백화점 무역센터점 7층 (우)06164",
+    "location":"https://www.google.com/maps/?q=37.5086154,127.0597808",
+    "time":"SUN 10:30 AM - 8:30 PM, MON - THU 10:30 AM - 8:00 PM, FRI - SAT 10:30 AM - 8:30 PM",
+    "products":"남성, 향수, 액세서리, 아이웨어",
+    "img":"/images/store8.jpg"
+    }, 
+   
+    {"name": "THOM BROWNE - SEOUL HYUNDAI COEX WOMEN 서울 현대 무역센터 여성",
+    "sido" : "서울시",
+    "address":"서울시 강남구 테헤란로 517 현대백화점 무역센터점 3층 (우)06164",
+    "location":"https://www.google.com/maps/?q=37.5086154,127.0597808",
+    "time":"SUN 10:30 AM - 8:30 PM, MON - THU 10:30 AM - 8:00 PM, FRI - SAT 10:30 AM - 8:30 PM",
+    "products":"여성, 향수, 액세서리, 아이웨어",
+    "img":"/images/store9.jpg"
+    }, 
+   
+    {"name": "THOM BROWNE - SEOUL HYUNDAI MAIN MEN 서울 현대 본점 남성",
+    "sido": "서울시",
+    "address":"서울시 강남구 압구정로 165 현대백화점 본점 4층 (우)06001",
+    "location":"https://www.google.com/maps/?q=37.5273375,127.0274219",
+    "time":"SUN 10:30 AM - 8:30 PM, MON - THU 10:30 AM - 8:00 PM, FRI - SAT 10:30 AM - 8:30 PM",
+    "products":"남성, 향수, 액세서리, 아이웨어",
+    "img":"/images/store10.jpg"
+    }, 
+   
+    {"name": "THOM BROWNE - SEOUL HYUNDAI MAIN WOMEN 서울 현대 본점 여성",
+    "sido" : "서울시",
+    "address":"서울시 강남구 압구정로 165 현대백화점 본점 2층 (우)06001",
+    "location":"https://www.google.com/maps/?q=37.5273125,127.0273125",
+    "time":"SUN 10:30 AM - 8:30 PM, MON - THU 10:30 AM - 8:00 PM, FRI - SAT 10:30 AM - 8:30 PM",
+    "products":"여성, 향수, 액세서리, 아이웨어",
+    "img":"/images/store3.jpg"
+    }, 
+   
+    {"name": "THOM BROWNE - SEOUL LOTTE AVENUEL WORLD TOWER WOMEN 서울 롯데 에비뉴엘 월드타워 여성",
+    "sido" : "서울시",
+    "address":"서울시 송파구 올림픽로 300 롯데백화점 에비뉴엘 월드타워점 2층 (우)05551",
+    "location":"https://www.google.com/maps/?q=37.5129907,127.1027322",
+    "time":"SUN 10:30 AM - 8:30 PM, MON - THU 10:30 AM - 8:00 PM, FRI - SAT 10:30 AM - 8:30 PM",
+    "products":"여성, 향수, 액세서리, 아이웨어",
+    "img":"/images/store11.jpg"
+    }, 
+
+    {"name": "THOM BROWNE - SEOUL LOTTE MAIN MEN 서울 롯데 본점 남성",
+    "sido" : "서울시",
+    "address":"서울특별시 중구 남대문로 81 롯데백화점 본점 5층 (우)04533",
+    "location":"https://www.google.com/maps/?q=37.5646756386063,126.98172305159",
+    "time":"SUN 10:30 AM - 8:30 PM, MON - THU 10:30 AM - 8:00 PM, FRI - SAT 10:30 AM - 8:30 PM",
+    "products":"남성, 향수, 액세서리, 아이웨어",
+    "img":"/images/store4.jpg"
+    }, 
+   
+    {"name": "THOM BROWNE - SEOUL SHINSEGAE MAIN MEN 서울 신세계 본점 남성",
+    "sido" : "서울시",
+    "address":"서울시 중구 소공로 63 신세계백화점 본점 신관 6층 (우)04530",
+    "location":"https://www.google.com/maps/place/37%C2%B033'37.3%22N+126%C2%B058'50.8%22E/data=!3m1!4b1!4m4!3m3!8m2!3d37.560369!4d126.9807737?entry=ttu",
+    "time":"SUN 10:30 AM - 8:30 PM, MON - THU 10:30 AM - 8:00 PM, FRI - SAT 10:30 AM - 8:30 PM",
+    "products":"남성, 향수, 액세서리, 아이웨어",
+    "img":"/images/store11.jpg"
+    }, 
+
+    {"name": "THOM BROWNE - SEOUL SHINSEGAE MAIN WOMEN 서울 신세계 본점 여성",
+    "sido": "서울시",
+    "address":"서울시 중구 소공로 63 신세계백화점 본점 본관 4층 (우)04530",
+    "location":"https://www.google.com/maps/place/37%C2%B033'40.0%22N+126%C2%B058'52.5%22E/data=!3m1!4b1!4m4!3m3!8m2!3d37.5611141!4d126.9812404?entry=ttu",
+    "time":"SUN 10:30 AM - 8:30 PM, MON - THU 10:30 AM - 8:00 PM, FRI - SAT 10:30 AM - 8:30 PM",
+    "products":"여성, 향수, 액세서리, 아이웨어",
+    "img":"/images/store11.jpg"
+    }, 
+
+    {"name": "THOM BROWNE - SEOUL SHINSEGAE GANGNAM MEN 서울 신세계 강남 남성",
+    "sido" : "서울시",
+    "address":"서울시 서초구 신반포로 176 신세계백화점 강남점 6층 (우)06546",
+    "location":"https://www.google.com/maps/?q=37.5041246,127.0030853",
+    "time":"SUN 10:30 AM - 8:30 PM, MON - THU 10:30 AM - 8:00 PM, FRI - SAT 10:30 AM - 8:30 PM",
+    "products":"남성, 향수, 액세서리, 아이웨어",
+    "img":"/images/store7.jpg"
+    }, 
+   
+
+    {"name": "THOM BROWNE - THE HYUNDAI SEOUL WOMEN 서울 더현대서울 여성",
+    "sido" : "서울시",
+    "address":"서울시 영등포구 여의대로 108 현대백화점 더현대서울점 1층 (우)07335",
+    "location":"https://www.google.com/maps/place/37%C2%B031'33.4%22N+126%C2%B055'42.4%22E/data=!3m1!4b1!4m4!3m3!8m2!3d37.5259375!4d126.9284375?entry=ttu",
+    "time":"SUN 10:30 AM - 8:30 PM, MON - THU 10:30 AM - 8:00 PM, FRI - SAT 10:30 AM - 8:30 PM",
+    "products":"여성, 향수, 액세서리, 아이웨어",
+    "img":"/images/store1.jpg"
+    }
+]
+
